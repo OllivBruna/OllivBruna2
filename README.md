@@ -1,2 +1,2 @@
-### Olá! Eu sou Bruna Oliveira 
-👾
+### Hello! I am the Bruna Oliveira... 👩‍💻
+
