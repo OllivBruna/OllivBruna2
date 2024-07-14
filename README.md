@@ -6,6 +6,3 @@
 </a>
 </div>
 
-<div style="display: incline_block"><br>
-<img align="center" alt="Brubna-HTML" heigth="40" src="https://raw.githubusercontent.com/devicon/master/icons/html5/html5-original.svg">
-<div>
