@@ -5,3 +5,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OllivBruna&layout=compact&langs_count=10&theme=dracula"/>
 </a>
 </div>
+
+<div style="display: incline_block"><br>
+<img align="center" alt="Brubna-HTML" heigth="40" src="https://raw.githubusercontent.com/devicon/master/icons/html5/html5-original.svg">
+<div>
